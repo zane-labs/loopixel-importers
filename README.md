@@ -17,7 +17,7 @@ Two tiny helper scripts for sprite sheets exported from [Loopixel](https://loopi
 ## RPG Maker MV/MZ: `loopixel_to_rpgmaker.py`
 
 ```
-pip install pillow
+python3 -m pip install pillow
 python3 loopixel_to_rpgmaker.py sprite_48.png '$Hero.png' --frames 0,2,4
 ```
 
